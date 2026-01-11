@@ -1,0 +1,20 @@
+#key	value
+name	Saify Saraiya
+byline	Life Coach, Author & Wellness Guide
+iconName	Saify Saraiya
+footer-message	Absolute Wellbeing Evolution for Zero Violation of Mind!
+siteMenuName	ZVM & AWE
+year	2000
+
+|~~~	sys
+safeName	saify-saraiya
+sections	
+sections_todo	writing: books+thoughts+travels, coaching: wellbeing+wisdom+wealth, whois
+local-url	http://localhost/people/saify/
+live-url	https://people.amadeusweb.world/saify/
+cloneAt	people
+
+|~~~	listings
+tags	humanist, life coach
+categorized-as	Person
+joined	Jan 2019
