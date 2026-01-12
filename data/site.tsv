@@ -8,8 +8,7 @@ year	2000
 
 |~~~	sys
 safeName	saify-saraiya
-sections	
-sections_todo	writing: books+thoughts+travels, coaching: wellbeing+wisdom+wealth, whois
+sections	writing: books+thoughts+travels, coaching: wellbeing+wisdom+wealth, whois
 local-url	http://localhost/people/saify/
 live-url	https://people.amadeusweb.world/saify/
 cloneAt	people
@@ -18,3 +17,4 @@ cloneAt	people
 tags	humanist, life coach
 categorized-as	Person
 joined	Jan 2019
+network	dawn-only
