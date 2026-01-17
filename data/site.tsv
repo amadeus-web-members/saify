@@ -1,16 +1,17 @@
 #key	value
 name	Saify Saraiya
-byline	Life Coach, Author & Wellness Guide
-iconName	Saify Saraiya
+byline	Networking OccuPASSION Worldwide
+iconName	ZVM World by Saify
 footer-message	Absolute Wellbeing Evolution for Zero Violation of Mind!
 siteMenuName	ZVM & AWE
 year	2000
 
 |~~~	sys
-safeName	saify-saraiya
-sections	writing: books+thoughts+travels, coaching: wellbeing+wisdom+wealth, whois
-local-url	http://localhost/people/saify/
-live-url	https://people.amadeusweb.world/saify/
+safeName	zvmworld
+sections	writing: books, coaching: wellbeing+wisdom, more: initiatives+whois
+sections_todo	writing: +thoughts+travels, coaching: +wealth
+local-url	http://localhost/organizations/zvmworld/
+live-url	https://organizations.amadeusweb.world/zvmworld/
 cloneAt	people
 
 |~~~	listings
